@@ -44,7 +44,7 @@
     
 <br>   
     
-- **Front-End Development**:
+- **Frameworks**:
 
    ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
    ![Pytorch](https://img.shields.io/badge/Pytorch-FFFFFF?style=for-the-badge&logo=Pytorch&logoColor=EE4C2C)
