@@ -114,7 +114,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/jaydeep-singh-8ab748226/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  JayDeep1710-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  JayDeep-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -122,7 +122,7 @@
 
 <li>
 <a href="https://instagram.com/_jaydeep.235?igshid=YmMyMTA2M2Y=" target="_blank">
-<img src="https://img.shields.io/badge/Instagram:  JayDeep1710-%2300acee.svg?color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Instagram:  JayDeep-%2300acee.svg?color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -130,7 +130,7 @@
 
 <li>
 <a href="mailto:2021UCE1512@mnit.ac.in" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  JayDeep1710-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  JayDeep-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
